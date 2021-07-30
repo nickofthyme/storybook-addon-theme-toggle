@@ -1,0 +1,19 @@
+body.light .my-button {
+  color: white;
+  background-color: #1ea7fd;
+}
+
+body.dark .my-button {
+  color: #1ea7fd;
+  background-color: white;
+}
+
+body.sb-light .my-button {
+  color: white;
+  background-color: rgb(255, 71, 133);
+}
+
+body.sb-dark .my-button {
+  color: rgb(255, 71, 133);
+  background-color: white;
+}

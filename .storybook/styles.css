@@ -1,0 +1,21 @@
+body {
+  color: black;
+  background-color: white;
+}
+
+body.light,
+body.sb-light {
+  color: black;
+  background-color: rgb(233, 232, 232);
+}
+
+body.dark,
+body.sb-dark {
+  color: white;
+  background-color: black;
+}
+
+body.dark pre,
+body.sb-dark pre {
+  background-color: darkgray;
+}
